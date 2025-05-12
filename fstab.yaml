@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/northamericanmedia/storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
