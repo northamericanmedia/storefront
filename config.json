@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://srxs-ee.namedia.net/graphql",
-      "commerce-endpoint": "https://edge-sandbox-graph.adobe.io/api/4de021f2-17ae-4040-8999-b86cc22eb2c8/graphql",
+      "commerce-endpoint": "https://edge-graph.adobe.io/api/03e397ed-8ca4-4f02-b800-a441549af898/graphql",
       "headers": {
         "all": {
           "Store": "srxs_ee"
